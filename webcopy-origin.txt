@@ -1,0 +1,276 @@
+Uri: https://bold-result-221303.framer.app/
+File Name: C:\Users\Ari\Desktop\bold-result-221303.framer.app\index.htm
+Content Type: text/html
+
+Uri: https://bold-result-221303.framer.app/meme-gallery
+File Name: C:\Users\Ari\Desktop\bold-result-221303.framer.app\meme-gallery.html
+Content Type: text/html
+
+Uri: https://fonts.gstatic.com/s/chewy/v18/uK_94ruUb-k-wn52KjI.woff2
+File Name: C:\Users\Ari\Desktop\bold-result-221303.framer.app\s\chewy\v18\uK_94ruUb-k-wn52KjI.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/geist/v3/gyByhwUxId8gMEwcGFU.woff2
+File Name: C:\Users\Ari\Desktop\bold-result-221303.framer.app\s\geist\v3\gyByhwUxId8gMEwcGFU.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/geist/v3/gyByhwUxId8gMEwSGFWfOw.woff2
+File Name: C:\Users\Ari\Desktop\bold-result-221303.framer.app\s\geist\v3\gyByhwUxId8gMEwSGFWfOw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/geist/v3/gyByhwUxId8gMEwYGFWfOw.woff2
+File Name: C:\Users\Ari\Desktop\bold-result-221303.framer.app\s\geist\v3\gyByhwUxId8gMEwYGFWfOw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiEyp8kv8JHgFVrJJbecmNE.woff2
+File Name: C:\Users\Ari\Desktop\bold-result-221303.framer.app\s\poppins\v23\pxiEyp8kv8JHgFVrJJbecmNE.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiEyp8kv8JHgFVrJJfecg.woff2
+File Name: C:\Users\Ari\Desktop\bold-result-221303.framer.app\s\poppins\v23\pxiEyp8kv8JHgFVrJJfecg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiEyp8kv8JHgFVrJJnecmNE.woff2
+File Name: C:\Users\Ari\Desktop\bold-result-221303.framer.app\s\poppins\v23\pxiEyp8kv8JHgFVrJJnecmNE.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/unbounded/v11/Yq6F-LOTXCb04q32xlpat-6uR42XTqtG6__2447Ngc6L.woff2
+File Name: C:\Users\Ari\Desktop\bold-result-221303.framer.app\s\unbounded\v11\Yq6F-LOTXCb04q32xlpat-6uR42XTqtG6__2447Ngc6L.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/unbounded/v11/Yq6F-LOTXCb04q32xlpat-6uR42XTqtG6__244fNgc6L.woff2
+File Name: C:\Users\Ari\Desktop\bold-result-221303.framer.app\s\unbounded\v11\Yq6F-LOTXCb04q32xlpat-6uR42XTqtG6__244fNgc6L.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/unbounded/v11/Yq6F-LOTXCb04q32xlpat-6uR42XTqtG6__244rNgQ.woff2
+File Name: C:\Users\Ari\Desktop\bold-result-221303.framer.app\s\unbounded\v11\Yq6F-LOTXCb04q32xlpat-6uR42XTqtG6__244rNgQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/unbounded/v11/Yq6F-LOTXCb04q32xlpat-6uR42XTqtG6__244TNgc6L.woff2
+File Name: C:\Users\Ari\Desktop\bold-result-221303.framer.app\s\unbounded\v11\Yq6F-LOTXCb04q32xlpat-6uR42XTqtG6__244TNgc6L.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/unbounded/v11/Yq6F-LOTXCb04q32xlpat-6uR42XTqtG6__244XNgc6L.woff2
+File Name: C:\Users\Ari\Desktop\bold-result-221303.framer.app\s\unbounded\v11\Yq6F-LOTXCb04q32xlpat-6uR42XTqtG6__244XNgc6L.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/5vvr9Vy74if2I6bQbJvbw7SY1pQ.woff2
+File Name: C:\Users\Ari\Desktop\bold-result-221303.framer.app\assets\5vvr9Vy74if2I6bQbJvbw7SY1pQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/b6Y37FthZeALduNqHicBT6FutY.woff2
+File Name: C:\Users\Ari\Desktop\bold-result-221303.framer.app\assets\b6Y37FthZeALduNqHicBT6FutY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/EOr0mi4hNtlgWNn9if640EZzXCo.woff2
+File Name: C:\Users\Ari\Desktop\bold-result-221303.framer.app\assets\EOr0mi4hNtlgWNn9if640EZzXCo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/JeYwfuaPfZHQhEG8U5gtPDZ7WQ.woff2
+File Name: C:\Users\Ari\Desktop\bold-result-221303.framer.app\assets\JeYwfuaPfZHQhEG8U5gtPDZ7WQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/OYrD2tBIBPvoJXiIHnLoOXnY9M.woff2
+File Name: C:\Users\Ari\Desktop\bold-result-221303.framer.app\assets\OYrD2tBIBPvoJXiIHnLoOXnY9M.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/vQyevYAyHtARFwPqUzQGpnDs.woff2
+File Name: C:\Users\Ari\Desktop\bold-result-221303.framer.app\assets\vQyevYAyHtARFwPqUzQGpnDs.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/Y9k9QrlZAqio88Klkmbd8VoMQc.woff2
+File Name: C:\Users\Ari\Desktop\bold-result-221303.framer.app\assets\Y9k9QrlZAqio88Klkmbd8VoMQc.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/images/58W9SOZfKZ0WObD35B23hxWxq2M.png
+File Name: C:\Users\Ari\Desktop\bold-result-221303.framer.app\images\58W9SOZfKZ0WObD35B23hxWxq2M.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/6i383iUdxBvc1ryH8dXHCIYZRg.png
+File Name: C:\Users\Ari\Desktop\bold-result-221303.framer.app\images\6i383iUdxBvc1ryH8dXHCIYZRg.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/6i383iUdxBvc1ryH8dXHCIYZRg.png?scale-down-to=1024
+File Name: C:\Users\Ari\Desktop\bold-result-221303.framer.app\images\6i383iUdxBvc1ryH8dXHCIYZRg-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/6i383iUdxBvc1ryH8dXHCIYZRg.png?scale-down-to=2048
+File Name: C:\Users\Ari\Desktop\bold-result-221303.framer.app\images\6i383iUdxBvc1ryH8dXHCIYZRg-3.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/6i383iUdxBvc1ryH8dXHCIYZRg.png?scale-down-to=512
+File Name: C:\Users\Ari\Desktop\bold-result-221303.framer.app\images\6i383iUdxBvc1ryH8dXHCIYZRg-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/6xcxVYkvMWqOgpImM2yytUvaV0.png
+File Name: C:\Users\Ari\Desktop\bold-result-221303.framer.app\images\6xcxVYkvMWqOgpImM2yytUvaV0.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/72QBWHgNS0bKPXkGrsg7ThB3s.png
+File Name: C:\Users\Ari\Desktop\bold-result-221303.framer.app\images\72QBWHgNS0bKPXkGrsg7ThB3s.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/7omvGMHIQUb6XxnSE3HL6D16w.png
+File Name: C:\Users\Ari\Desktop\bold-result-221303.framer.app\images\7omvGMHIQUb6XxnSE3HL6D16w.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/7omvGMHIQUb6XxnSE3HL6D16w.png?scale-down-to=1024
+File Name: C:\Users\Ari\Desktop\bold-result-221303.framer.app\images\7omvGMHIQUb6XxnSE3HL6D16w-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/7omvGMHIQUb6XxnSE3HL6D16w.png?scale-down-to=512
+File Name: C:\Users\Ari\Desktop\bold-result-221303.framer.app\images\7omvGMHIQUb6XxnSE3HL6D16w-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/8OdzZIn8swcZ3PNQvvnp97Ipe10.png
+File Name: C:\Users\Ari\Desktop\bold-result-221303.framer.app\images\8OdzZIn8swcZ3PNQvvnp97Ipe10.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/a3XMu9l8wihalbKenbiNdRbaJeY.png
+File Name: C:\Users\Ari\Desktop\bold-result-221303.framer.app\images\a3XMu9l8wihalbKenbiNdRbaJeY.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/bwTSD7voCbtlFqR4ffYPKjkx9CQ.png
+File Name: C:\Users\Ari\Desktop\bold-result-221303.framer.app\images\bwTSD7voCbtlFqR4ffYPKjkx9CQ.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/bwTSD7voCbtlFqR4ffYPKjkx9CQ.png?scale-down-to=1024
+File Name: C:\Users\Ari\Desktop\bold-result-221303.framer.app\images\bwTSD7voCbtlFqR4ffYPKjkx9CQ-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/bwTSD7voCbtlFqR4ffYPKjkx9CQ.png?scale-down-to=2048
+File Name: C:\Users\Ari\Desktop\bold-result-221303.framer.app\images\bwTSD7voCbtlFqR4ffYPKjkx9CQ-3.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/bwTSD7voCbtlFqR4ffYPKjkx9CQ.png?scale-down-to=512
+File Name: C:\Users\Ari\Desktop\bold-result-221303.framer.app\images\bwTSD7voCbtlFqR4ffYPKjkx9CQ-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/cvGAkY8hmkIDT0GUACfLHKKj1So.png
+File Name: C:\Users\Ari\Desktop\bold-result-221303.framer.app\images\cvGAkY8hmkIDT0GUACfLHKKj1So.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/CvH3m4zAZWFeX7v7qnGTOR39g.png
+File Name: C:\Users\Ari\Desktop\bold-result-221303.framer.app\images\CvH3m4zAZWFeX7v7qnGTOR39g.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/eWOXDDPoAykFxF09G1jKHRT4c3w.png
+File Name: C:\Users\Ari\Desktop\bold-result-221303.framer.app\images\eWOXDDPoAykFxF09G1jKHRT4c3w.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/g29vYIoMEWRdmAXFyipQKTDhRJY.png
+File Name: C:\Users\Ari\Desktop\bold-result-221303.framer.app\images\g29vYIoMEWRdmAXFyipQKTDhRJY.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/G2KkvwQDEDa2NnOJ01MHF4mrZQ.png
+File Name: C:\Users\Ari\Desktop\bold-result-221303.framer.app\images\G2KkvwQDEDa2NnOJ01MHF4mrZQ.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/in57fYqlfwByilDONBovqaTOcYo.png
+File Name: C:\Users\Ari\Desktop\bold-result-221303.framer.app\images\in57fYqlfwByilDONBovqaTOcYo.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/in57fYqlfwByilDONBovqaTOcYo.png?scale-down-to=1024
+File Name: C:\Users\Ari\Desktop\bold-result-221303.framer.app\images\in57fYqlfwByilDONBovqaTOcYo-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/in57fYqlfwByilDONBovqaTOcYo.png?scale-down-to=512
+File Name: C:\Users\Ari\Desktop\bold-result-221303.framer.app\images\in57fYqlfwByilDONBovqaTOcYo-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/jSNGU6f1sY5h7XXFCsvZecw38Us.png
+File Name: C:\Users\Ari\Desktop\bold-result-221303.framer.app\images\jSNGU6f1sY5h7XXFCsvZecw38Us.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/jSNGU6f1sY5h7XXFCsvZecw38Us.png?scale-down-to=512
+File Name: C:\Users\Ari\Desktop\bold-result-221303.framer.app\images\jSNGU6f1sY5h7XXFCsvZecw38Us-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/kDsi6HghsPI1GLY71ObxWvtJWbs.png
+File Name: C:\Users\Ari\Desktop\bold-result-221303.framer.app\images\kDsi6HghsPI1GLY71ObxWvtJWbs.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/kLtwaZg1UyZaQ5336Rbs85OHRLI.png
+File Name: C:\Users\Ari\Desktop\bold-result-221303.framer.app\images\kLtwaZg1UyZaQ5336Rbs85OHRLI.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/mP2syl9SLW5IbDDXurd1XXKQY.png
+File Name: C:\Users\Ari\Desktop\bold-result-221303.framer.app\images\mP2syl9SLW5IbDDXurd1XXKQY.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/mRCTg2uHxygdhSfSeIa0EtC9JSE.png
+File Name: C:\Users\Ari\Desktop\bold-result-221303.framer.app\images\mRCTg2uHxygdhSfSeIa0EtC9JSE.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/mRCTg2uHxygdhSfSeIa0EtC9JSE.png?scale-down-to=1024
+File Name: C:\Users\Ari\Desktop\bold-result-221303.framer.app\images\mRCTg2uHxygdhSfSeIa0EtC9JSE-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/mRCTg2uHxygdhSfSeIa0EtC9JSE.png?scale-down-to=512
+File Name: C:\Users\Ari\Desktop\bold-result-221303.framer.app\images\mRCTg2uHxygdhSfSeIa0EtC9JSE-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/oCbKV8NIWMLdA41CyZD1wuQMU.png
+File Name: C:\Users\Ari\Desktop\bold-result-221303.framer.app\images\oCbKV8NIWMLdA41CyZD1wuQMU.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/QkJ14jE2t0ZTb1HIwgVBRxkbpPA.png
+File Name: C:\Users\Ari\Desktop\bold-result-221303.framer.app\images\QkJ14jE2t0ZTb1HIwgVBRxkbpPA.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/Ql3EvdsZ4F0yNq2bCL4uilBpP8.png
+File Name: C:\Users\Ari\Desktop\bold-result-221303.framer.app\images\Ql3EvdsZ4F0yNq2bCL4uilBpP8.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/VP9TYvYhXEXnsM5NRxLrzWbSZM.png
+File Name: C:\Users\Ari\Desktop\bold-result-221303.framer.app\images\VP9TYvYhXEXnsM5NRxLrzWbSZM.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/VP9TYvYhXEXnsM5NRxLrzWbSZM.png?scale-down-to=1024
+File Name: C:\Users\Ari\Desktop\bold-result-221303.framer.app\images\VP9TYvYhXEXnsM5NRxLrzWbSZM-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/VP9TYvYhXEXnsM5NRxLrzWbSZM.png?scale-down-to=512
+File Name: C:\Users\Ari\Desktop\bold-result-221303.framer.app\images\VP9TYvYhXEXnsM5NRxLrzWbSZM-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/sites/3YFdotg7yUtYRdr8mN4Ni6/augiA20Il.C2nSaweY.mjs
+File Name: C:\Users\Ari\Desktop\bold-result-221303.framer.app\sites\3YFdotg7yUtYRdr8mN4Ni6\augiA20Il.C2nSaweY.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/3YFdotg7yUtYRdr8mN4Ni6/framer.CzWc2MB8.mjs
+File Name: C:\Users\Ari\Desktop\bold-result-221303.framer.app\sites\3YFdotg7yUtYRdr8mN4Ni6\framer.CzWc2MB8.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/3YFdotg7yUtYRdr8mN4Ni6/JK4I1KNRB.-XnbnoK7.mjs
+File Name: C:\Users\Ari\Desktop\bold-result-221303.framer.app\sites\3YFdotg7yUtYRdr8mN4Ni6\JK4I1KNRB.-XnbnoK7.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/3YFdotg7yUtYRdr8mN4Ni6/motion.BT65YIOL.mjs
+File Name: C:\Users\Ari\Desktop\bold-result-221303.framer.app\sites\3YFdotg7yUtYRdr8mN4Ni6\motion.BT65YIOL.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/3YFdotg7yUtYRdr8mN4Ni6/react.CRP1kpNG.mjs
+File Name: C:\Users\Ari\Desktop\bold-result-221303.framer.app\sites\3YFdotg7yUtYRdr8mN4Ni6\react.CRP1kpNG.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/3YFdotg7yUtYRdr8mN4Ni6/rolldown-runtime.BAw5_7tg.mjs
+File Name: C:\Users\Ari\Desktop\bold-result-221303.framer.app\sites\3YFdotg7yUtYRdr8mN4Ni6\rolldown-runtime.BAw5_7tg.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/3YFdotg7yUtYRdr8mN4Ni6/script_main.CKyzFJLt.mjs
+File Name: C:\Users\Ari\Desktop\bold-result-221303.framer.app\sites\3YFdotg7yUtYRdr8mN4Ni6\script_main.CKyzFJLt.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/3YFdotg7yUtYRdr8mN4Ni6/shared-lib.Dnf6zC4H.mjs
+File Name: C:\Users\Ari\Desktop\bold-result-221303.framer.app\sites\3YFdotg7yUtYRdr8mN4Ni6\shared-lib.Dnf6zC4H.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/3YFdotg7yUtYRdr8mN4Ni6/uL0O9jZzSzlTZ_Ii83LCkF-iKKGIlTO2sZ3x7tPj1YM.DotF6wjn.mjs
+File Name: C:\Users\Ari\Desktop\bold-result-221303.framer.app\sites\3YFdotg7yUtYRdr8mN4Ni6\uL0O9jZzSzlTZ_Ii83LCkF-iKKGIlTO2sZ3x7tPj1YM.DotF6wjn.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/3YFdotg7yUtYRdr8mN4Ni6/YZOLNjbsq.CPehQRhI.mjs
+File Name: C:\Users\Ari\Desktop\bold-result-221303.framer.app\sites\3YFdotg7yUtYRdr8mN4Ni6\YZOLNjbsq.CPehQRhI.mjs
+Content Type: text/javascript
+
